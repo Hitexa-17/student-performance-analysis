@@ -163,4 +163,4 @@ jupyter notebook Student_Performance_Analysis.ipynb
 
 **Author:** Hitexa Patel — [LinkedIn](https://www.linkedin.com/in/patel-hitexa-cs2027) · [GitHub](https://github.com/Hitexa-17)
 
-
+*Dataset used under Kaggle's public dataset terms. Educational/portfolio project.*
